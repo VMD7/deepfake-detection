@@ -4,7 +4,7 @@
 
 This project aims to classify videos as "REAL" or "FAKE" using a deep learning model. The model architecture leverages the `InceptionV3` model for feature extraction, followed by `LSTM` and `GRU` layers for sequence processing.
 
-[![Deepfake Detection Web APP](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/AnimationBlooms.gif)](https://vjdevane-deepfake-detection.hf.space)
+[![Deepfake Detection Web APP](https://github.com/VMD7/deepfake-detection/blob/main/Docs/AnimationDF.gif)](https://vjdevane-deepfake-detection.hf.space)
 
 ## Getting Started
 
