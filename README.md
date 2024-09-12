@@ -6,6 +6,24 @@ This project aims to classify videos as "REAL" or "FAKE" using a deep learning m
 
 [![Deepfake Detection Web APP](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/AnimationBlooms.gif)](https://vjdevane-deepfake-detection.hf.space)
 
+## Getting Started
+
+### Clone the Repository:
+
+```bash
+git clone https://github.com/your-repo-link.git
+cd your-repo-directory
+```
+### Install Dependencies:
+```python
+pip install -r requirements.txt
+```
+
+### Run the Application:
+```python
+python app.py
+```
+
 ## Dataset
 
 The dataset used for training and evaluation consists of:
@@ -36,34 +54,14 @@ The model was trained on [Kaggle Notebooks](https://www.kaggle.com/code/vijaydev
 * GPU Accelerators: T4 x 2
 * Dataset: [Deepfake Detection Challenge Dataset](https://www.kaggle.com/c/deepfake-detection-challenge).
 
-## Getting Started
 
-### Clone the Repository:
+## Demo
 
-```bash
-git clone https://github.com/your-repo-link.git
-cd your-repo-directory
-```
-### Install Dependencies:
-```python
-pip install -r requirements.txt
-```
+You can try out the model live on Hugging Face Spaces: [Demo](https://vjdevane-deepfake-detection.hf.space)
 
-### Run the Application:
-```python
-python app.py
-```
+## Contributing
 
-
-## Deployment
-
-The whole project is deployed on the Hugging Face Hub. You can interact with this [link](https://vjdevane-deepfake-detection.hf.space).
-
-## Contribution Guidelines
-Contributions to the Deepfake Detection are welcome! If you have ideas for improvements, new features, or bug fixes, please initiate a thread.
-
+Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. Ensure your code adheres to the existing style and includes appropriate tests.
+   
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Contact
-For any inquiries or support regarding the Deepfake Detection, please contact [Vijay Devane](https://www.linkedin.com/in/vijay-devane-a629931b3/).
