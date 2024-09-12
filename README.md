@@ -38,7 +38,7 @@ The model was trained on [Kaggle Notebooks](https://www.kaggle.com/code/vijaydev
 
 ## Deployment
 
-The whole project is deployed on the Hugging Face Hub. You can interact with the model it with this [link](https://vjdevane-deepfake-detection.hf.space).
+The whole project is deployed on the Hugging Face Hub. You can interact with this [link](https://vjdevane-deepfake-detection.hf.space).
 
 ## Contribution Guidelines
 Contributions to the Deepfake Detection are welcome! If you have ideas for improvements, new features, or bug fixes, please initiate a thread.
