@@ -29,7 +29,7 @@ The dataset used for training and evaluation consists of:
 
 Each video has 10 frames extracted based on motion detection.
 
-This newly motion detected dataset is released on [kaggle](https://www.kaggle.com/datasets/vijaydevane/deepfake-detection-challenge-dataset-face-images).
+This newly motion detected dataset is released on kaggel as [Deepfake Detection Challenge Dataset - Face Images](https://www.kaggle.com/datasets/vijaydevane/deepfake-detection-challenge-dataset-face-images).
 
 ## Training
 The model was trained on [Kaggle Notebooks](https://www.kaggle.com/code/vijaydevane/deepfakedetectiontraining) with the following specifications:
@@ -38,4 +38,13 @@ The model was trained on [Kaggle Notebooks](https://www.kaggle.com/code/vijaydev
 
 ## Deployment
 
-The whole project is deployed on the Hugging Face Hub. You can interact with the model with this [link](https://vjdevane-deepfake-detection.hf.space).
+The whole project is deployed on the Hugging Face Hub. You can interact with the model it with this [link](https://vjdevane-deepfake-detection.hf.space).
+
+## Contribution Guidelines
+Contributions to the Deepfake Detection are welcome! If you have ideas for improvements, new features, or bug fixes, please initiate a thread.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Contact
+For any inquiries or support regarding the Deepfake Detection, please contact [Vijay Devane](https://www.linkedin.com/in/vijay-devane-a629931b3/).
