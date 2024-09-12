@@ -1,0 +1,5 @@
+venv
+dlib-19.24.1-cp311-cp311-win_amd64.whl
+.env
+Dataset
+deepfake_detection_model.h5

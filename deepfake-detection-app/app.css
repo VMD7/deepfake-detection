@@ -1,0 +1,16 @@
+
+#component-2, #component-3, #component-4 {
+    text-align: center; 
+    color: #000;
+}
+
+.gr-textbox, .gr-file, .gr-gallery {
+    background-color: #1e1e1e; 
+    border: 3px solid #242424; 
+    color: #000000; 
+}
+
+h1, .gr-description {
+    text-align: center; 
+    color: #000000;
+}
